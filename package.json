@@ -1,0 +1,19 @@
+{
+  "name": "twitter-bot",
+  "version": "1.0.0",
+  "description": "Un bot para el SISS",
+  "main": "index.js",
+  "scripts": {
+    "test": "none"
+  },
+  "keywords": [
+    "twitter",
+    "bot",
+    "nodejs"
+  ],
+  "author": "SNX",
+  "license": "ISC",
+  "dependencies": {
+    "twitter": "^1.7.1"
+  }
+}
